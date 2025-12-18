@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "In the Stars（feat. Kiiara）",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-18T06:15:25.661043Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In the Stars (feat. Kiiara)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_In_the_Stars_(feat._Kiiara)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "In the Stars (feat. Kiiara)",
+      "artist": "ONE OK ROCK, Kiiara",
+      "has_synced": true,
+      "path": "select/02_In_the_Stars_(feat._Kiiara)_ONE_OK_ROCK,_Kiiara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In The Stars (feat. Kiiara)",
+      "artist": "ONE OK ROCK feat. Kiiara",
+      "has_synced": true,
+      "path": "select/03_In_The_Stars_(feat._Kiiara)_ONE_OK_ROCK_feat._Kiiara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In the Stars (feat. Kiiara)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_In_the_Stars_(feat._Kiiara)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "In the Stars (feat. Kiiara)",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_In_the_Stars_(feat._Kiiara)_ONE_OK_ROCK.txt"
+    }
+  ]
+}
