@@ -1,0 +1,54 @@
+# ONE OK ROCK – In the Stars（feat. Kiiara）
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:04.44] Sick and tired of waiting
+[00:08.07] So we learned to fly
+[00:11.10] What a wild ride
+[00:16.73] Brave enough to make it
+[00:20.29] And we're here to stay
+[00:23.37] Yeah, we found a way
+[00:27.99] 進むべき道のその向こうに
+[00:30.85] We can make a new world where nobody knows
+[00:33.97] いつか夢に見たあの場所を
+[00:38.63] We're all the way up, up, up
+[00:41.58] We'll never look down, down, down
+[00:44.73] Breaking the ceiling (breaking the ceiling)
+[00:48.14] 'Cause I believe the world is ours
+[00:51.00] We're all the way up, up, up
+[00:53.64] We'll never look down, down, down
+[00:56.73] I got a feeling (I got a feeling)
+[01:00.29] That it was written in the stars
+[01:13.04] Written in the stars
+[01:17.44] I wasn't born to follow
+[01:21.11] So I took the lead
+[01:23.71] I didn't lose the dream
+[01:29.29] Forget about tomorrow
+[01:33.08] Bring it on tonight
+[01:36.01] The sky's burning bright
+[01:39.13] We're all the way up, up, up
+[01:42.28] We'll never look down, down, down
+[01:45.20] Breaking the ceiling (breaking the ceiling)
+[01:48.56] 'Cause I believe the world is ours
+[01:51.55] We're all the way up, up, up
+[01:54.44] We'll never look down, down, down
+[01:57.39] I got a feeling (I got a feeling )
+[02:00.88] That it was written in the stars
+[02:13.54] Written in the stars
+[02:16.49] If you ever get stuck with no where to run
+[02:20.31] When you're covered in clouds, I'll show you the sun
+[02:23.11] Our time to shine, we've just begun
+[02:28.00] We're all the way up, up, up
+[02:30.86] これ以上はもうないくらい
+[02:34.22] Breaking the ceiling (breaking the ceiling)
+[02:37.33] 'Cause I believe the world is ours
+[02:40.06] We're all the way up, up, up
+[02:43.10] 届かないくらい fly high
+[02:46.08] I got a feeling (I got a feeling )
+[02:49.42] That it was written in the stars
+[02:55.50] Oh yeah
+[03:01.40] That it was written in the stars, yeah
+[03:10.32] Written in the stars
+[03:14.24] Written in the stars
+```
